@@ -8,6 +8,9 @@ Un système de surveillance à distance des patients basé sur l'IA, conçu pour
 - **Surveillance en temps réel** des données de santé simulées (fréquence cardiaque, tension artérielle, saturation en oxygène).
 - **Détection d'anomalies** basée sur un modèle d'IA (Isolation Forest).
 - **Alertes automatiques** en cas de détection de lectures anormales.
+- **Intégration avec des composants IoT pour collecter des données de santé en temps réel à partir de dispositifs médicaux connectés.
+
+
 
 ---
 
