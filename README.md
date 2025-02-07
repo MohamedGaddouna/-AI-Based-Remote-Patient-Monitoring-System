@@ -25,10 +25,6 @@ Un système de surveillance à distance des patients basé sur l'IA, conçu pour
 ## 📥 Installation
 
 1. Clonez le dépôt GitHub :
-```bash
-https://github.com/votre-utilisateur/ai-patient-monitoring.git
-cd ai-patient-monitoring
-```
 
 2. Installez les dépendances :
 ```bash
